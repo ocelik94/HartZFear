@@ -1,0 +1,13 @@
+name = "How Fortunate! [Forge]"
+filename = "fortunate-2.15.3-MC-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6224a9e8a8b3a863410b0938126f79561ffff368"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2991313
+project-id = 298352
