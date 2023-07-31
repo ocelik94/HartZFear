@@ -12410,7 +12410,12 @@ metafile = true
 
 [[files]]
 file = "mods/endercore.pw.toml"
-hash = "3e8ccf0e2f8bb37852bcc21cc2759407f9292538ebef8e13fde442907625d556"
+hash = "95a18eb1874edc1f94b93ac730249be28db12f0a643d360e29bd8ce9135bc42c"
+metafile = true
+
+[[files]]
+file = "mods/enderio.pw.toml"
+hash = "dd373934589a5dce66108c99d75e09444fe84fc470efa8f97587d1115131c8a1"
 metafile = true
 
 [[files]]
@@ -12461,11 +12466,6 @@ metafile = true
 [[files]]
 file = "mods/guide-api.pw.toml"
 hash = "84a12cab793e2dd8eeec5971365bc25b4a0ba26a4f6489d908a31f30162c9fdc"
-metafile = true
-
-[[files]]
-file = "mods/hardcore-darkness.pw.toml"
-hash = "7802c0b6315b31dc6ca400703d15ab773730fa080b66ac430689ddcda4cd94d9"
 metafile = true
 
 [[files]]
@@ -12605,11 +12605,6 @@ metafile = true
 [[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "60d45619268b6dbe13ede0e9475442f0e42753dcc00f1c5d2cfa45140c4ad60f"
-metafile = true
-
-[[files]]
-file = "mods/morph.pw.toml"
-hash = "56fcb2f8c2e2fbd8bb776704756103f6f900143b3a0f5bf57f6219f5dba6dd6e"
 metafile = true
 
 [[files]]
