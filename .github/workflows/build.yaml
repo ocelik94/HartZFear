@@ -1,0 +1,61 @@
+name: Build
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+  release:
+    types:
+      - created
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install packwiz
+        run: |
+          curl -o packwiz.zip -L https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
+          unzip packwiz.zip
+          chmod +x packwiz
+          rm packwiz.zip
+
+      - name: Build
+        run: |
+          ./packwiz modrinth export
+          ./packwiz curseforge export
+          mkdir rel
+          cp *.mrpack rel/
+          cp *.zip rel/
+
+      - name: Sync Readme
+        run: |
+          sudo apt-get install jo
+          echo "<details><summary>Credits</summary>" >> body.md
+          cat CREDITS.md >> body.md
+          echo "</details>" >> body.md
+          echo "" >> body.md
+          cat README.md >> body.md
+          jo body=@body.md > payload.json
+          curl -A "xtex's MP Pack CI" -H "Authorization: ${{ secrets.MODRINTH_TOKEN }}" -H "Content-Type: application/json" -X PATCH -d "$(cat payload.json)" https://api.modrinth.com/v2/project/HsMwyVxf
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: Modrinth
+          path: "*.mrpack"
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: Curseforge
+          path: "*.zip"
+
+      - name: Upload Release
+        uses: fnkr/github-action-ghr@v1
+        if: github.event_name == 'release'
+        env:
+          GHR_PATH: rel
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
