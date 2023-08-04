@@ -24,17 +24,9 @@ jobs:
 
       - name: Build
         run: |
-          ./packwiz modrinth export
           ./packwiz curseforge export
           mkdir rel
-          cp *.mrpack rel/
           cp *.zip rel/
-
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: Modrinth
-          path: "*.mrpack"
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
