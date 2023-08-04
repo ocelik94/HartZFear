@@ -27,12 +27,15 @@ jobs:
           ./packwiz curseforge export
           mkdir rel
           cp *.zip rel/
+          cp pack.toml rel/
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
         with:
           name: Curseforge
-          path: "*.zip"
+          path: |
+            "*.zip"
+            pack.toml
 
       - name: Upload Release
         uses: fnkr/github-action-ghr@v1
