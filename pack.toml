@@ -1,12 +1,12 @@
 name = "H4-HartZFear-Modpack"
 author = "Okan Celik"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bdea6ed07f28f1f05ba6a4b09fd8b9dde74137b5d73142d9a2a966f115b4be3f"
+hash = "0b273da4f9bb4c5e7de60e954425ffa4f5c42e6e581f45c5cf4ece94634acedb"
 
 [versions]
 forge = "14.23.5.2860"
