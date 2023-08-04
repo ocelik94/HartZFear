@@ -12420,7 +12420,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-io.pw.toml"
-hash = "24b6d6f854cefa26aa17bdbbbe1362d17d89619fe821ac98d0c3805071a9af07"
+hash = "cde76f6a6996baea5268266faa3d2bf93aba1e61f2e85c1811c383087bb20457"
 metafile = true
 
 [[files]]
@@ -12430,7 +12430,7 @@ metafile = true
 
 [[files]]
 file = "mods/endercore.pw.toml"
-hash = "3e8ccf0e2f8bb37852bcc21cc2759407f9292538ebef8e13fde442907625d556"
+hash = "d56f22049555a71eb22c72d4a07fdc520af07da3cbb0eeb0283bcef87c370a71"
 metafile = true
 
 [[files]]
