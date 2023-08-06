@@ -12809,6 +12809,11 @@ file = "mods/tabula/themes/whitelight.json"
 hash = "29af85779e3043c12c2e911843947d28b5874512b368d3c6e716b1d851f1ec97"
 
 [[files]]
+file = "mods/the-lost-cities.pw.toml"
+hash = "0605c683ae32b9562d91aa3a633214510969402cb4d8147938c7805da4584eef"
+metafile = true
+
+[[files]]
 file = "mods/thermal-expansion.pw.toml"
 hash = "ccedb897162eeffc59668c11a684f66b5d73916b574f9904d7201eba33884904"
 metafile = true
