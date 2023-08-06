@@ -1,0 +1,13 @@
+name = "Ancient Warfare 2"
+filename = "ancientwarfare-1.12.2-2.7.0.1038.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "65374617"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3293318
+project-id = 224602

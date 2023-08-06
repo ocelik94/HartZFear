@@ -12254,6 +12254,11 @@ hash = "d8601c42224ae2c6b11183d779dc5852644741155ce6ca1ea3a3e2b10bcca874"
 metafile = true
 
 [[files]]
+file = "mods/ancient-warfare-2.pw.toml"
+hash = "4140681dca2944d21be55ff07acaf302208971fb7d79645dc8eaf637e99a4a91"
+metafile = true
+
+[[files]]
 file = "mods/applecore.pw.toml"
 hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
 metafile = true
