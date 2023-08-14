@@ -12444,6 +12444,16 @@ hash = "514495e463acb09d111f3c6ea43355d5b2ed2f2c97c1e43dbe27800d74668e67"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-legacy-forge.pw.toml"
+hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
+metafile = true
+
+[[files]]
+file = "mods/ftb-utilities-forge.pw.toml"
+hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
+metafile = true
+
+[[files]]
 file = "mods/grappling-hook-mod.pw.toml"
 hash = "46323f0d213c9254b88676838c07c13418874cc0fec8edb7f966b73c16efe746"
 metafile = true
@@ -12451,11 +12461,6 @@ metafile = true
 [[files]]
 file = "mods/guide-api.pw.toml"
 hash = "84a12cab793e2dd8eeec5971365bc25b4a0ba26a4f6489d908a31f30162c9fdc"
-metafile = true
-
-[[files]]
-file = "mods/hardcore-revival.pw.toml"
-hash = "8495f0cc7fdf9fda206461954eccc7fca3cda853f5963f092a73fe91289c74c4"
 metafile = true
 
 [[files]]
