@@ -12884,11 +12884,6 @@ hash = "85df453b27b1a8ab706a0317cf08d810631fc3362867e6710f3b626d0c61803e"
 metafile = true
 
 [[files]]
-file = "mods/void-island-control.pw.toml"
-hash = "702c687aa3abf0060b5385aab1650f132287be8743639bf4a37fa1d902f902b5"
-metafile = true
-
-[[files]]
 file = "mods/wall-jump.pw.toml"
 hash = "820a26e3ac70b64cef49f3621ec1f72ae6d40c88866fbeb165c25810ea545b3f"
 metafile = true
