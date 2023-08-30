@@ -12249,6 +12249,11 @@ file = "mods/OpenTerrainGenerator/worlds/Biome Bundle/WorldObjects/_Copies/files
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "mods/additional-structures.pw.toml"
+hash = "ebfa5f9fae285e9151eff0743e2efa51307a0dc4de42aa7f62d81570f7994a7f"
+metafile = true
+
+[[files]]
 file = "mods/albedo.pw.toml"
 hash = "d8601c42224ae2c6b11183d779dc5852644741155ce6ca1ea3a3e2b10bcca874"
 metafile = true
@@ -12291,6 +12296,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "a9eb05b4ceb68aa65ddcba69918c28265e7247d83a8bd76993cdc0a800f8c5da"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
 
 [[files]]
@@ -12361,6 +12371,11 @@ metafile = true
 [[files]]
 file = "mods/ctm.pw.toml"
 hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+metafile = true
+
+[[files]]
+file = "mods/customized-dungeon-loot.pw.toml"
+hash = "1a5225c4b50c7b710698d9b5c957eed6d36c0fc060c340d44a636dc3bc3d2441"
 metafile = true
 
 [[files]]
@@ -12578,11 +12593,6 @@ hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
 metafile = true
 
 [[files]]
-file = "mods/mo-bends.pw.toml"
-hash = "32917e74e44ed692074f7e6b88041ad9c6fc439e5d1f3a592d43061a5ebd20c7"
-metafile = true
-
-[[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "60d45619268b6dbe13ede0e9475442f0e42753dcc00f1c5d2cfa45140c4ad60f"
 metafile = true
@@ -12693,6 +12703,11 @@ hash = "8a6cb30342e995d96ba1be5e191d93e801c2640e4e857a35f7e20baf551aee54"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
+metafile = true
+
+[[files]]
 file = "mods/random-things.pw.toml"
 hash = "568fdad52f685a4b155371508db94667f9a198168cfd602d806409313d0276cb"
 metafile = true
@@ -12700,6 +12715,11 @@ metafile = true
 [[files]]
 file = "mods/reap-mod.pw.toml"
 hash = "137f63803bd8e7b30c7c7d85cfd6c931a61388d853466cb9187193a9cc6e3e1a"
+metafile = true
+
+[[files]]
+file = "mods/recurrent-complex.pw.toml"
+hash = "98a2907e719a02b10e6414cb5ff524adae81665ab4adff087ae9aa16e3d9a5f3"
 metafile = true
 
 [[files]]
@@ -12723,6 +12743,11 @@ hash = "26f5e9ec70d0a6e2b6df74c3ed51c3f1db92e6bd51357942c7a6a3dc059aaefc"
 metafile = true
 
 [[files]]
+file = "mods/ruins-structure-spawning-system.pw.toml"
+hash = "038af7817472326b3139b6fd788d85d3af9380b0fbc95794164fbb07d04c0ed6"
+metafile = true
+
+[[files]]
 file = "mods/scape-and-run-parasites-addon-by-nocube.pw.toml"
 hash = "b3d0c5b7dc47712de8c733ae257395c59461e0ff86f8d3ec147efe4fb46e607a"
 metafile = true
@@ -12738,13 +12763,13 @@ hash = "5a26e0faa9fe26c46891d4beee4bc2ac62354eb4e307d56566ded9c174b1bcd5"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-life-carrot-edition.pw.toml"
-hash = "3c488bc1200c41f69e61d86b87389afcd936fac6e9378df07961458cb1f459de"
+file = "mods/speedy-hoppers.pw.toml"
+hash = "c1af6501b44509182ebb4c86ff1a0cb58cdc05b4ecb4626673d3461f71f5b018"
 metafile = true
 
 [[files]]
-file = "mods/storage-drawers.pw.toml"
-hash = "b9d564847fd7fabd6f9d65f001d1da9c2d1c03e5df5d9d258db713b4f145d1d0"
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "3c488bc1200c41f69e61d86b87389afcd936fac6e9378df07961458cb1f459de"
 metafile = true
 
 [[files]]
