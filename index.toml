@@ -12613,11 +12613,6 @@ hash = "3632aa4d56852454d663ea445a3e66168ebefb101aff6f69ba96f286528a00d6"
 metafile = true
 
 [[files]]
-file = "mods/mrcrayfishs-gun-mod.pw.toml"
-hash = "6d36d42c202c6ad223bcf09f626eca0bbfed8fba21a8ead594bdb50e5023d209"
-metafile = true
-
-[[files]]
 file = "mods/natura.pw.toml"
 hash = "c177030cdf99db98e1807a6803da85b12b4a5af7fcb65b83a7356aa37cafe691"
 metafile = true
@@ -12837,6 +12832,11 @@ hash = "61b6975779c9a3ca3deba8d08703a475997fb4f83920429b5d8b2404fc359303"
 [[files]]
 file = "mods/tabula/themes/whitelight.json"
 hash = "29af85779e3043c12c2e911843947d28b5874512b368d3c6e716b1d851f1ec97"
+
+[[files]]
+file = "mods/techguns.pw.toml"
+hash = "64a89765878169d6f37f8450bedd3a75539987f93a124c8ca183d0fbbda94f31"
+metafile = true
 
 [[files]]
 file = "mods/the-lost-cities.pw.toml"
