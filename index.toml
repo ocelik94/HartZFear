@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e03fa9e1b8417e2bdd753050cc989e2bb2b662568b35e8f313775c3d7ef91814"
+
+[[files]]
+file = "flake.lock"
+hash = "ed36fa9ca97f03a70747b6b38b7a12aca29f6a2b1401b1b85e7e55eaf9223fc9"
+
+[[files]]
+file = "flake.nix"
+hash = "d2c8e76673ba0a493ba7d75f4aa7394f258673e6263deae138ff94344a236b44"
+
+[[files]]
 file = "mods/1.12.2/OTG-Core.jar"
 hash = "648ec4fa62c5875dd0ae405b446a254e97592f6af528cdd1c69a523e8ca55a69"
 
@@ -12494,11 +12506,6 @@ hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
 metafile = true
 
 [[files]]
-file = "mods/ichunutil.pw.toml"
-hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
-metafile = true
-
-[[files]]
 file = "mods/interaction-wheel.pw.toml"
 hash = "cf23327e84a0168dd583816a61a0062ba67f3b99e5850572b9cae9984a3601ab"
 metafile = true
@@ -12600,11 +12607,6 @@ metafile = true
 [[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "60d45619268b6dbe13ede0e9475442f0e42753dcc00f1c5d2cfa45140c4ad60f"
-metafile = true
-
-[[files]]
-file = "mods/morph.pw.toml"
-hash = "56fcb2f8c2e2fbd8bb776704756103f6f900143b3a0f5bf57f6219f5dba6dd6e"
 metafile = true
 
 [[files]]
