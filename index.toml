@@ -12331,6 +12331,11 @@ hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
 metafile = true
 
 [[files]]
+file = "mods/bigger-packets-please.pw.toml"
+hash = "91e55f53e659f5371a27adf9614c1166f0f75a1ca658c6dc69e4cdffdd20f724"
+metafile = true
+
+[[files]]
 file = "mods/bonsai-trees.pw.toml"
 hash = "30c7e695c156b6e560d1c8db3a63d4446f73c89bfcb6bee5a6a819276b19614a"
 metafile = true
