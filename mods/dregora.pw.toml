@@ -1,0 +1,13 @@
+name = "OTG: Dregora Remastered"
+filename = "Dregora-1.12.2-v2.9 [DEL OLD FILES] - [The Big One].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26b3b3b410ba3e73d31c06aeea51bc0d53bd72a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4322061
+project-id = 292238
