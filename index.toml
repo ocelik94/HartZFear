@@ -12496,6 +12496,11 @@ hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
 
 [[files]]
+file = "mods/mcef.pw.toml"
+hash = "bbe94adda166cd6bf3270b7aa11cdbf71f379383c0aafc2cee6b4b4589dda010"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "46b6fe4b838212d19da58719e4782d0c54689f3cbec148921c41a3297f96caf6"
 metafile = true
@@ -12655,8 +12660,18 @@ hash = "cd7b43d7b333457e6460ebfb29a33a22339c9dc396abfc59f0b13702ae6b5577"
 metafile = true
 
 [[files]]
+file = "mods/renderlib.pw.toml"
+hash = "61e0a9d796d6bf8ca35cbe0da2540813a944fa215de972759369005c85bccb26"
+metafile = true
+
+[[files]]
 file = "mods/rftools.pw.toml"
 hash = "57b7614b66288b49d00c60b29f3997676353229262a60bbb3a0ae5f60ab34f2b"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "729f98aa35cf981066eb57990307f20be6a73f066db605ec90d7fe59cf767fa2"
 metafile = true
 
 [[files]]
@@ -12813,6 +12828,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
+metafile = true
+
+[[files]]
+file = "mods/webdisplays.pw.toml"
+hash = "ce53566041c1c1c5a267271ae3e03cbd6d08862e1364f4050263a94b8919b02e"
 metafile = true
 
 [[files]]
